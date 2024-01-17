@@ -1,0 +1,7 @@
+print("Yogesh Kumar Bhatt")
+f = open("Append.txt","a")
+f.write(input("Enter text: "))
+f.close()
+f = open("Append.txt","r")
+print("Appended file: ",f.read())
+f.close()

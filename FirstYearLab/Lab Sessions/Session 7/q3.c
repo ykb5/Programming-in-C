@@ -1,0 +1,1 @@
+//To find the sum of digits of a 4-digit number.

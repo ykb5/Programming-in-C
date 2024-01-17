@@ -1,0 +1,5 @@
+print("Yogesh Kumar Bhatt")
+str=input("Enter the string: ")
+seg=str.split()
+seg.sort(reverse=True)
+print("Sorted: ",seg)
